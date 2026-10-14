@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /?admin=true
+Disallow: /#admin
+
+Sitemap: https://omj-repairs.lagos.ng/sitemap.xml

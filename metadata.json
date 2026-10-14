@@ -1,0 +1,8 @@
+{
+  "name": "OMJ Repairs – Computer & Laptop Repair in Lagos",
+  "description": "Professional computer repairs, hardware diagnostics, OS installation, and laptop upgrades in Lagos, Nigeria. Fast, reliable technical support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
